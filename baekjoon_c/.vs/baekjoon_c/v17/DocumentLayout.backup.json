@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git-repo\\algorithm\\baekjoon_c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F68FB3D-DB67-4392-AA34-E8E6F1396FB9}|1157\\1157.vcxproj|D:\\git-repo\\algorithm\\baekjoon_c\\1157\\1157.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F68FB3D-DB67-4392-AA34-E8E6F1396FB9}|1157\\1157.vcxproj|solutionrelative:1157\\1157.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1D7488-8983-4817-91D7-4037104033F8}|15439\\15439.vcxproj|D:\\git-repo\\algorithm\\baekjoon_c\\15439\\15439.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC1D7488-8983-4817-91D7-4037104033F8}|15439\\15439.vcxproj|solutionrelative:15439\\15439.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1157.c",
+              "DocumentMoniker": "D:\\git-repo\\algorithm\\baekjoon_c\\1157\\1157.c",
+              "RelativeDocumentMoniker": "1157\\1157.c",
+              "ToolTip": "D:\\git-repo\\algorithm\\baekjoon_c\\1157\\1157.c*",
+              "RelativeToolTip": "1157\\1157.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-28T12:54:46.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "15439.c",
+              "DocumentMoniker": "D:\\git-repo\\algorithm\\baekjoon_c\\15439\\15439.c",
+              "RelativeDocumentMoniker": "15439\\15439.c",
+              "ToolTip": "D:\\git-repo\\algorithm\\baekjoon_c\\15439\\15439.c",
+              "RelativeToolTip": "15439\\15439.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-28T12:43:20.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
